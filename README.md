@@ -15,28 +15,28 @@ Files from my bachelor's in Aerospace Engineering
   <tbody>
     <tr>
       <td rowspan="5">1º ano</td>
-      <td><a href="https://github.com/magnergusse/Alga" target="_blank" rel="noopener noreferrer">ALGA</a></td>
+      <td><a href="https://github.com/magnergusse/Alga" target="_blank" rel="noopener noreferrer">Análise Estrutural de Aeronaves</a></td>
       <td><a href="https://github.com/magnergusse/Calculo-2" target="_blank" rel="noopener noreferrer">Cálculo II</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Cálculo I</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Aviónica e Espaciónica</a></td>
       <td><a href="https://github.com/magnergusse/IAC" target="_blank" rel="noopener noreferrer">Introdução a Arquitetura de Computadores</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Programacao" target="_blank" rel="noopener noreferrer">Programação</a></td>
+      <td><a href="https://github.com/magnergusse/Programacao" target="_blank" rel="noopener noreferrer">Dinâmica e Controlo de Veículos Espaciais</a></td>
       <td><a href="https://github.com/magnergusse/Mecanica-dos-solidos" target="_blank" rel="noopener noreferrer">Mecânica dos sólidos</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/IEA" target="_blank" rel="noopener noreferrer">Introdução a Engenharia Aeroespacial</a></td>
+      <td><a href="https://github.com/magnergusse/IEA" target="_blank" rel="noopener noreferrer">Mecânica de Fluidos Computacional para Engenharia Aeroespacial</a></td>
       <td><a href="https://github.com/magnergusse/MTF" target="_blank" rel="noopener noreferrer">Materiais e tecnologias de fabrico</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Mecanica-Classica" target="_blank" rel="noopener noreferrer">Mecânica Clássica</a></td>
+      <td><a href="https://github.com/magnergusse/Mecanica-Classica" target="_blank" rel="noopener noreferrer">Design Generativo e Otimização</a></td>
       <td><a href="https://github.com/magnergusse/Desenho-Tecnico" target="_blank" rel="noopener noreferrer">Desenho Técnico</a></td>
     </tr>
     <tr>
-      <td rowspan="5">3º ano</td>
-      <th colspan="2"><a href="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial" target="_blank" rel="noopener noreferrer">Projeto em Engenharia Aeroespacial</a></th>
+      <td rowspan="5">2º ano</td>
+      <th colspan="2"><a href="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial" target="_blank" rel="noopener noreferrer">Dissertação / Projeto / Estágio</a></th>
     </tr>
     <tr>
       <td><a href="https://github.com/magnergusse/MSCA" target="_blank" rel="noopener noreferrer">Modelação de Sistemas e Controlo Aeroespacial</a></td>

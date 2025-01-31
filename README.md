@@ -40,15 +40,14 @@ Files from my bachelor's in Aerospace Engineering
     </tr>
     <tr>
       <td><a href="https://github.com/magnergusse/MSCA" target="_blank" rel="noopener noreferrer">Tecnologias de Propulsão Aeronáutica e Aeroespacial</a></td>
-    <!--  <td><a href="https://github.com/magnergusse/Aeroelasticidade" target="_blank" rel="noopener noreferrer">Aeroelasticidade</a></td>-->
+      <td><a href="https://github.com/magnergusse/Aeroelasticidade" target="_blank" rel="noopener noreferrer"></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/magnergusse/TSEE" target="_blank" rel="noopener noreferrer">Opção Livre</a></td>
-     <!-- <td><a href="https://github.com/magnergusse/PROE" target="_blank" rel="noopener noreferrer">Propagação e Radiação de Ondas eletromagnéticas</a></td>-->
+      <td><a href="https://github.com/magnergusse/PROE" target="_blank" rel="noopener noreferrer"></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/magnergusse/EEA" target="_blank" rel="noopener noreferrer">Opção</a></td>
-      <!-- <td><a href="https://github.com/magnergusse/RVE" target="_blank" rel="noopener noreferrer">Rea</a></td> -->
-    </tr>
+      <td><a href="https://github.com/magnergusse/RVE" target="_blank" rel="noopener noreferrer"></a></td> 
   </tbody>
 </table>
